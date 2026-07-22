@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { api } from '../api/client';
 
 interface Props {
   content: string;

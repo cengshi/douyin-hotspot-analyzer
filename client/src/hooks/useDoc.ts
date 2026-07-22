@@ -1,6 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
 import { api } from '../api/client';
-import type { DocResult } from '../types';
 
 interface UseDocReturn {
   content: string;
