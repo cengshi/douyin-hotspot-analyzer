@@ -1,7 +1,7 @@
 # Douyin Hot Spot Analyzer - 开发进度追踪
 
-**项目**: 抖音热点分析器  
-**设计文档**: [docs/superpowers/specs/2025-01-15-douyin-hotspot-design.md](./specs/2025-01-15-douyin-hotspot-design.md)  
+**项目**: 抖音热点分析器
+**设计文档**: [docs/superpowers/specs/2025-01-15-douyin-hotspot-design.md](./specs/2025-01-15-douyin-hotspot-design.md)
 **实现计划**: [docs/superpowers/plans/2025-01-15-douyin-hotspot-implementation-plan.md](./plans/2025-01-15-douyin-hotspot-implementation-plan.md)
 
 ---
@@ -10,7 +10,7 @@
 
 | # | 任务 | 状态 | 完成日期 | 备注 |
 |---|------|:----:|----------|------|
-| 1 | 项目初始化 | ⬜ | - | - |
+| 1 | 项目初始化 | ✅ 完成 | 2026-07-22 | - |
 | 2 | 数据库和存储服务 | ⬜ | - | - |
 | 3 | 抖音数据获取服务 | ⬜ | - | - |
 | 4 | API 路由 | ⬜ | - | - |
@@ -21,7 +21,7 @@
 | 9 | 项目整合和构建 | ⬜ | - | - |
 | 10 | 真实数据获取 (可选) | ⬜ | - | - |
 
-**总体进度**: 0 / 10 (0%)
+**总体进度**: 1 / 10 (10%)
 
 ---
 
@@ -39,23 +39,23 @@
 - `server/src/index.ts`
 - `server/src/types/index.ts`
 
-**状态**: ⬜ 未开始
+**状态**: ✅ 完成
 
 **进度记录**:
 
 | 日期 | 完成情况 | 变更内容 |
 |------|:--------:|----------|
-| - | - | - |
+| 2026-07-22 | ✅ 完成 | 创建前后端项目结构，配置 TypeScript、Express、React、Vite、Tailwind CSS |
 
 ---
 
 ### Task 2: 数据库和存储服务
 
-**描述**: 实现 SQLite 数据库初始化和数据存储服务
+**描述**: 实现 JSON 文件存储服务（改用 JSON 替代 SQLite，无需编译）
 
 **涉及文件**:
 - `server/src/services/storage.ts`
-- `server/data/hotspot.db`
+- `server/data/hotspot.json`
 
 **状态**: ⬜ 未开始
 
@@ -170,8 +170,6 @@
 - `client/src/pages/Home.tsx`
 - `client/src/pages/Docs.tsx`
 - `client/src/pages/Settings.tsx`
-- `client/tailwind.config.js`
-- `client/postcss.config.js`
 
 **状态**: ⬜ 未开始
 
@@ -188,7 +186,6 @@
 **描述**: 整合前后端，配置构建和部署
 
 **涉及文件**:
-- `.gitignore`
 - `README.md`
 - `docs/DEVELOPMENT.md`
 
@@ -223,4 +220,5 @@
 
 | 版本 | 日期 | 变更内容 |
 |------|------|----------|
-| 0.1.0 | 2025-01-15 | 项目初始化，设计文档和实现计划创建 |
+| 0.1.0 | 2026-07-22 | 项目初始化，设计文档和实现计划创建 |
+| 0.2.0 | 2026-07-22 | Task 1: 完成项目初始化，搭建 Express + React 基础结构 |
