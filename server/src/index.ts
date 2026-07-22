@@ -4,6 +4,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { storage } from './services/storage.js';
 import { douyinService } from './services/douyin.js';
+import { markdownService } from './services/markdown.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -17,6 +18,8 @@ app.get('/api/health', (_, res) => {
   const lastUpdated = storage.getLastUpdated();
   res.json({ success: true, data: { status: 'ok', lastUpdated }, error: null });
 });
+
+// ============ 热点相关 API ============
 
 // 获取热搜话题
 app.get('/api/hot/topics', (_, res) => {
@@ -65,10 +68,43 @@ app.post('/api/hot/refresh', async (_, res) => {
   }
 });
 
-// 获取今日文档（临时占位）
+// ============ 文档相关 API ============
+
+// 获取今日 Markdown 文档
 app.get('/api/docs/today', (_, res) => {
-  res.json({ success: true, data: { content: '# 暂无数据\n\n请先刷新热点数据', filename: 'empty.md' }, error: null });
+  try {
+    const topics = storage.getTopics();
+    const videos = storage.getVideos();
+    const creators = storage.getCreators();
+
+    const content = markdownService.generateDailyReport(topics, videos, creators);
+    const filename = markdownService.getFilename();
+
+    res.json({ success: true, data: { content, filename }, error: null });
+  } catch (error) {
+    res.json({ success: false, data: null, error: 'Failed to generate report' });
+  }
 });
+
+// 导出 Markdown 文件
+app.get('/api/docs/export', (_, res) => {
+  try {
+    const topics = storage.getTopics();
+    const videos = storage.getVideos();
+    const creators = storage.getCreators();
+
+    const content = markdownService.generateDailyReport(topics, videos, creators);
+    const filename = markdownService.getFilename();
+
+    res.setHeader('Content-Type', 'text/markdown; charset=utf-8');
+    res.setHeader('Content-Disposition', `attachment; filename="${filename}"`);
+    res.send(content);
+  } catch (error) {
+    res.status(500).json({ success: false, data: null, error: 'Failed to export' });
+  }
+});
+
+// ============ 静态文件 ============
 
 // 提供静态文件（前端构建产物）
 app.use(express.static(path.join(__dirname, '../../client/dist')));
