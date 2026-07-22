@@ -1,0 +1,238 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "word": "周杰伦新歌发布",
+      "hotValue": 12345678,
+      "rank": 1,
+      "link": "https://www.douyin.com/discover?keyword=周杰伦新歌发布",
+      "fetchedAt": "2026-07-22T15:57:48.214Z"
+    },
+    {
+      "id": "2",
+      "word": "春节档电影推荐",
+      "hotValue": 9876543,
+      "rank": 2,
+      "link": "https://www.douyin.com/discover?keyword=春节档电影推荐",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "3",
+      "word": "2026科技趋势",
+      "hotValue": 7654321,
+      "rank": 3,
+      "link": "https://www.douyin.com/discover?keyword=2026科技趋势",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "4",
+      "word": "AI写作技巧",
+      "hotValue": 5432109,
+      "rank": 4,
+      "link": "https://www.douyin.com/discover?keyword=AI写作技巧",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "5",
+      "word": "职场干货分享",
+      "hotValue": 4321098,
+      "rank": 5,
+      "link": "https://www.douyin.com/discover?keyword=职场干货分享",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "6",
+      "word": "减肥食谱大公开",
+      "hotValue": 3210987,
+      "rank": 6,
+      "link": "https://www.douyin.com/discover?keyword=减肥食谱",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "7",
+      "word": "猫咪搞笑合集",
+      "hotValue": 2109876,
+      "rank": 7,
+      "link": "https://www.douyin.com/discover?keyword=猫咪搞笑",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "8",
+      "word": "旅游打卡圣地",
+      "hotValue": 1987654,
+      "rank": 8,
+      "link": "https://www.douyin.com/discover?keyword=旅游打卡",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "9",
+      "word": "理财入门教程",
+      "hotValue": 1765432,
+      "rank": 9,
+      "link": "https://www.douyin.com/discover?keyword=理财入门",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "10",
+      "word": "手工DIY教程",
+      "hotValue": 1543210,
+      "rank": 10,
+      "link": "https://www.douyin.com/discover?keyword=手工DIY",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    }
+  ],
+  "videos": [
+    {
+      "id": "v1",
+      "title": "这视频太牛了！一定要看完全程",
+      "author": {
+        "id": "c1",
+        "nickname": "科技小达人",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c1",
+        "followers": 1234567,
+        "verified": true,
+        "fetchedAt": "2026-07-22T15:57:48.215Z"
+      },
+      "likes": 123456,
+      "comments": 8901,
+      "shares": 2345,
+      "coverUrl": "https://picsum.photos/seed/v1/400/300",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "v2",
+      "title": "教你三招提升效率，工作事半功倍",
+      "author": {
+        "id": "c2",
+        "nickname": "效率达人",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c2",
+        "followers": 987654,
+        "verified": false,
+        "fetchedAt": "2026-07-22T15:57:48.215Z"
+      },
+      "likes": 98765,
+      "comments": 4321,
+      "shares": 1234,
+      "coverUrl": "https://picsum.photos/seed/v2/400/300",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "v3",
+      "title": "家常菜做法大全，学会了你就是大厨",
+      "author": {
+        "id": "c3",
+        "nickname": "美食博主小王",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c3",
+        "followers": 876543,
+        "verified": true,
+        "fetchedAt": "2026-07-22T15:57:48.215Z"
+      },
+      "likes": 87654,
+      "comments": 3210,
+      "shares": 987,
+      "coverUrl": "https://picsum.photos/seed/v3/400/300",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "v4",
+      "title": "健身30天对比图，效果太明显了",
+      "author": {
+        "id": "c4",
+        "nickname": "健身教练老李",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c4",
+        "followers": 765432,
+        "verified": true,
+        "fetchedAt": "2026-07-22T15:57:48.215Z"
+      },
+      "likes": 76543,
+      "comments": 2109,
+      "shares": 876,
+      "coverUrl": "https://picsum.photos/seed/v4/400/300",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "v5",
+      "title": "萌宠日常，看着心情都好起来了",
+      "author": {
+        "id": "c5",
+        "nickname": "铲屎官日记",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c5",
+        "followers": 654321,
+        "verified": false,
+        "fetchedAt": "2026-07-22T15:57:48.215Z"
+      },
+      "likes": 65432,
+      "comments": 1987,
+      "shares": 765,
+      "coverUrl": "https://picsum.photos/seed/v5/400/300",
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    }
+  ],
+  "creators": [
+    {
+      "id": "c1",
+      "nickname": "科技小达人",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c1",
+      "followers": 1234567,
+      "verified": true,
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "c2",
+      "nickname": "效率达人",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c2",
+      "followers": 987654,
+      "verified": false,
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "c3",
+      "nickname": "美食博主小王",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c3",
+      "followers": 876543,
+      "verified": true,
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "c4",
+      "nickname": "健身教练老李",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c4",
+      "followers": 765432,
+      "verified": true,
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "c5",
+      "nickname": "铲屎官日记",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c5",
+      "followers": 654321,
+      "verified": false,
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "c6",
+      "nickname": "旅行家小美",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c6",
+      "followers": 543210,
+      "verified": true,
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "c7",
+      "nickname": "手工达人阿杰",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c7",
+      "followers": 432109,
+      "verified": false,
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    },
+    {
+      "id": "c8",
+      "nickname": "财经分析师",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c8",
+      "followers": 321098,
+      "verified": true,
+      "fetchedAt": "2026-07-22T15:57:48.215Z"
+    }
+  ],
+  "lastUpdated": "2026-07-22T15:57:48.355Z"
+}

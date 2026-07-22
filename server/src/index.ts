@@ -3,6 +3,7 @@ import cors from 'cors';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { storage } from './services/storage.js';
+import { douyinService } from './services/douyin.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const app = express();
@@ -13,7 +14,8 @@ app.use(express.json());
 
 // Health check
 app.get('/api/health', (_, res) => {
-  res.json({ success: true, data: { status: 'ok' }, error: null });
+  const lastUpdated = storage.getLastUpdated();
+  res.json({ success: true, data: { status: 'ok', lastUpdated }, error: null });
 });
 
 // 获取热搜话题
@@ -46,9 +48,21 @@ app.get('/api/hot/creators', (_, res) => {
   }
 });
 
-// 刷新热点数据（临时占位）
-app.post('/api/hot/refresh', (_, res) => {
-  res.json({ success: true, data: { topics: 0, videos: 0, creators: 0 }, error: null });
+// 刷新热点数据
+app.post('/api/hot/refresh', async (_, res) => {
+  try {
+    const { topics, videos, creators } = await douyinService.refreshAll();
+    storage.saveTopics(topics);
+    storage.saveVideos(videos);
+    storage.saveCreators(creators);
+    res.json({
+      success: true,
+      data: { topics: topics.length, videos: videos.length, creators: creators.length },
+      error: null
+    });
+  } catch (error) {
+    res.json({ success: false, data: null, error: 'Failed to refresh data' });
+  }
 });
 
 // 获取今日文档（临时占位）
