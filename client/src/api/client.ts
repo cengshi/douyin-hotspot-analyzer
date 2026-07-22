@@ -41,4 +41,24 @@ export const api = {
   getExportUrl(): string {
     return '/api/docs/export';
   },
+
+  // ============ 定时任务 ============
+
+  // 获取定时任务状态
+  async getSchedulerStatus(): Promise<ApiResponse<{ running: boolean }>> {
+    const res = await client.get<ApiResponse<{ running: boolean }>>('/scheduler/status');
+    return res.data;
+  },
+
+  // 启动定时任务
+  async startScheduler(interval?: number): Promise<ApiResponse<{ message: string }>> {
+    const res = await client.post<ApiResponse<{ message: string }>>('/scheduler/start', { interval });
+    return res.data;
+  },
+
+  // 停止定时任务
+  async stopScheduler(): Promise<ApiResponse<{ message: string }>> {
+    const res = await client.post<ApiResponse<{ message: string }>>('/scheduler/stop');
+    return res.data;
+  },
 };
