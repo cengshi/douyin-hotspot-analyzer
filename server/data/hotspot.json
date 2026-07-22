@@ -1,238 +1,492 @@
 {
   "topics": [
     {
-      "id": "1",
-      "word": "周杰伦新歌发布",
-      "hotValue": 12345678,
+      "id": "mrwa5v91x6xsah8spde",
+      "word": "外交部再回应菲方蓄意挑衅",
+      "hotValue": 12071344,
       "rank": 1,
-      "link": "https://www.douyin.com/discover?keyword=周杰伦新歌发布",
-      "fetchedAt": "2026-07-22T15:57:48.214Z"
+      "link": "https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%86%8D%E5%9B%9E%E5%BA%94%E8%8F%B2%E6%96%B9%E8%93%84%E6%84%8F%E6%8C%91%E8%A1%85",
+      "fetchedAt": "2026-07-22T16:12:00.757Z"
     },
     {
-      "id": "2",
-      "word": "春节档电影推荐",
-      "hotValue": 9876543,
+      "id": "mrwa5v92mrgdpvp0nyf",
+      "word": "抖火杯反三之夜有多燃",
+      "hotValue": 11827602,
       "rank": 2,
-      "link": "https://www.douyin.com/discover?keyword=春节档电影推荐",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "link": "https://www.douyin.com/search/%E6%8A%96%E7%81%AB%E6%9D%AF%E5%8F%8D%E4%B8%89%E4%B9%8B%E5%A4%9C%E6%9C%89%E5%A4%9A%E7%87%83",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
     },
     {
-      "id": "3",
-      "word": "2026科技趋势",
-      "hotValue": 7654321,
+      "id": "mrwa5v923a4mxy2ckn5",
+      "word": "引力一号一箭九星发射",
+      "hotValue": 11713776,
       "rank": 3,
-      "link": "https://www.douyin.com/discover?keyword=2026科技趋势",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "link": "https://www.douyin.com/search/%E5%BC%95%E5%8A%9B%E4%B8%80%E5%8F%B7%E4%B8%80%E7%AE%AD%E4%B9%9D%E6%98%9F%E5%8F%91%E5%B0%84",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
     },
     {
-      "id": "4",
-      "word": "AI写作技巧",
-      "hotValue": 5432109,
+      "id": "mrwa5v92u4i1is4sfnd",
+      "word": "当我在暑假和crush表白成功后",
+      "hotValue": 11099250,
       "rank": 4,
-      "link": "https://www.douyin.com/discover?keyword=AI写作技巧",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "link": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E5%9C%A8%E6%9A%91%E5%81%87%E5%92%8Ccrush%E8%A1%A8%E7%99%BD%E6%88%90%E5%8A%9F%E5%90%8E",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
     },
     {
-      "id": "5",
-      "word": "职场干货分享",
-      "hotValue": 4321098,
+      "id": "mrwa5v92s7ht6o53hjc",
+      "word": "今年菲尔兹奖候选人都在研究啥",
+      "hotValue": 10373234,
       "rank": 5,
-      "link": "https://www.douyin.com/discover?keyword=职场干货分享",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "link": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%80%99%E9%80%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%A0%94%E7%A9%B6%E5%95%A5",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
     },
     {
-      "id": "6",
-      "word": "减肥食谱大公开",
-      "hotValue": 3210987,
+      "id": "mrwa5v92qyx3joc4bv",
+      "word": "这届非遗手作太好玩了",
+      "hotValue": 10175992,
       "rank": 6,
-      "link": "https://www.douyin.com/discover?keyword=减肥食谱",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "link": "https://www.douyin.com/search/%E8%BF%99%E5%B1%8A%E9%9D%9E%E9%81%97%E6%89%8B%E4%BD%9C%E5%A4%AA%E5%A5%BD%E7%8E%A9%E4%BA%86",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
     },
     {
-      "id": "7",
-      "word": "猫咪搞笑合集",
-      "hotValue": 2109876,
+      "id": "mrwa5v92luw4enwczoi",
+      "word": "我的夏日主线任务online",
+      "hotValue": 9101694,
       "rank": 7,
-      "link": "https://www.douyin.com/discover?keyword=猫咪搞笑",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%A4%8F%E6%97%A5%E4%B8%BB%E7%BA%BF%E4%BB%BB%E5%8A%A1online",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
     },
     {
-      "id": "8",
-      "word": "旅游打卡圣地",
-      "hotValue": 1987654,
+      "id": "mrwa5v92m44hnvq271o",
+      "word": "iPhone18系列已量产",
+      "hotValue": 9090138,
       "rank": 8,
-      "link": "https://www.douyin.com/discover?keyword=旅游打卡",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "link": "https://www.douyin.com/search/iPhone18%E7%B3%BB%E5%88%97%E5%B7%B2%E9%87%8F%E4%BA%A7",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
     },
     {
-      "id": "9",
-      "word": "理财入门教程",
-      "hotValue": 1765432,
+      "id": "mrwa5v92he4apq0slr",
+      "word": "在家也能复刻成吉思鸡",
+      "hotValue": 9066514,
       "rank": 9,
-      "link": "https://www.douyin.com/discover?keyword=理财入门",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "link": "https://www.douyin.com/search/%E5%9C%A8%E5%AE%B6%E4%B9%9F%E8%83%BD%E5%A4%8D%E5%88%BB%E6%88%90%E5%90%89%E6%80%9D%E9%B8%A1",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
     },
     {
-      "id": "10",
-      "word": "手工DIY教程",
-      "hotValue": 1543210,
+      "id": "mrwa5v92h1l17v3soxn",
+      "word": "东山精密回应光模块被盗窃",
+      "hotValue": 8991897,
       "rank": 10,
-      "link": "https://www.douyin.com/discover?keyword=手工DIY",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "link": "https://www.douyin.com/search/%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86%E5%9B%9E%E5%BA%94%E5%85%89%E6%A8%A1%E5%9D%97%E8%A2%AB%E7%9B%97%E7%AA%83",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v923h7jn554c6b",
+      "word": "胖东来禁止员工相互借钱",
+      "hotValue": 8975065,
+      "rank": 11,
+      "link": "https://www.douyin.com/search/%E8%83%96%E4%B8%9C%E6%9D%A5%E7%A6%81%E6%AD%A2%E5%91%98%E5%B7%A5%E7%9B%B8%E4%BA%92%E5%80%9F%E9%92%B1",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92dvunne2xe67",
+      "word": "九门提档至7月30日",
+      "hotValue": 8901209,
+      "rank": 12,
+      "link": "https://www.douyin.com/search/%E4%B9%9D%E9%97%A8%E6%8F%90%E6%A1%A3%E8%87%B37%E6%9C%8830%E6%97%A5",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92c2oa7optzdq",
+      "word": "消暑来杯color drink",
+      "hotValue": 8475944,
+      "rank": 13,
+      "link": "https://www.douyin.com/search/%E6%B6%88%E6%9A%91%E6%9D%A5%E6%9D%AFcolor%20drink",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92ai7gc18nc3t",
+      "word": "这世界大得让你很难不旅游",
+      "hotValue": 8269651,
+      "rank": 14,
+      "link": "https://www.douyin.com/search/%E8%BF%99%E4%B8%96%E7%95%8C%E5%A4%A7%E5%BE%97%E8%AE%A9%E4%BD%A0%E5%BE%88%E9%9A%BE%E4%B8%8D%E6%97%85%E6%B8%B8",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92rnok6sk283e",
+      "word": "Faker被韩国警察厅任命为名誉警察",
+      "hotValue": 8210079,
+      "rank": 15,
+      "link": "https://www.douyin.com/search/Faker%E8%A2%AB%E9%9F%A9%E5%9B%BD%E8%AD%A6%E5%AF%9F%E5%8E%85%E4%BB%BB%E5%91%BD%E4%B8%BA%E5%90%8D%E8%AA%89%E8%AD%A6%E5%AF%9F",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92qbebvortei9",
+      "word": "滔搏：耐克中国线上销售明年终止",
+      "hotValue": 8158712,
+      "rank": 16,
+      "link": "https://www.douyin.com/search/%E6%BB%94%E6%90%8F%EF%BC%9A%E8%80%90%E5%85%8B%E4%B8%AD%E5%9B%BD%E7%BA%BF%E4%B8%8A%E9%94%80%E5%94%AE%E6%98%8E%E5%B9%B4%E7%BB%88%E6%AD%A2",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92cae4otsusg",
+      "word": "如果你也刚好抬头看树",
+      "hotValue": 8048016,
+      "rank": 17,
+      "link": "https://www.douyin.com/search/%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B9%9F%E5%88%9A%E5%A5%BD%E6%8A%AC%E5%A4%B4%E7%9C%8B%E6%A0%91",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92so750vuas98",
+      "word": "河北省气象台发布暴雨蓝色预警",
+      "hotValue": 7854110,
+      "rank": 18,
+      "link": "https://www.douyin.com/search/%E6%B2%B3%E5%8C%97%E7%9C%81%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E8%93%9D%E8%89%B2%E9%A2%84%E8%AD%A6",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92yw1m2p5sgog",
+      "word": "乒超联赛推出双向限制新规引争议",
+      "hotValue": 7848629,
+      "rank": 19,
+      "link": "https://www.douyin.com/search/%E4%B9%92%E8%B6%85%E8%81%94%E8%B5%9B%E6%8E%A8%E5%87%BA%E5%8F%8C%E5%90%91%E9%99%90%E5%88%B6%E6%96%B0%E8%A7%84%E5%BC%95%E4%BA%89%E8%AE%AE",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92uk4zvy62jl",
+      "word": "广州早茶已经next level了",
+      "hotValue": 7839737,
+      "rank": 20,
+      "link": "https://www.douyin.com/search/%E5%B9%BF%E5%B7%9E%E6%97%A9%E8%8C%B6%E5%B7%B2%E7%BB%8Fnext%20level%E4%BA%86",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92nb6sdamdqln",
+      "word": "南部空军发功夫女足转场视频",
+      "hotValue": 7832205,
+      "rank": 21,
+      "link": "https://www.douyin.com/search/%E5%8D%97%E9%83%A8%E7%A9%BA%E5%86%9B%E5%8F%91%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E8%BD%AC%E5%9C%BA%E8%A7%86%E9%A2%91",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v925hyl1b0pnk7",
+      "word": "功夫女足第二轮路演",
+      "hotValue": 7813889,
+      "rank": 22,
+      "link": "https://www.douyin.com/search/%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%AC%AC%E4%BA%8C%E8%BD%AE%E8%B7%AF%E6%BC%94",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92z2eplf6j52p",
+      "word": "张伟丽晒造型反差感拉满",
+      "hotValue": 7793548,
+      "rank": 23,
+      "link": "https://www.douyin.com/search/%E5%BC%A0%E4%BC%9F%E4%B8%BD%E6%99%92%E9%80%A0%E5%9E%8B%E5%8F%8D%E5%B7%AE%E6%84%9F%E6%8B%89%E6%BB%A1",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92fyn3pgwbik",
+      "word": "公孙离寒羽凝歌皮肤爆料",
+      "hotValue": 7782781,
+      "rank": 24,
+      "link": "https://www.douyin.com/search/%E5%85%AC%E5%AD%99%E7%A6%BB%E5%AF%92%E7%BE%BD%E5%87%9D%E6%AD%8C%E7%9A%AE%E8%82%A4%E7%88%86%E6%96%99",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92stkk3m1w59i",
+      "word": "港星打call功夫女足",
+      "hotValue": 7768820,
+      "rank": 25,
+      "link": "https://www.douyin.com/search/%E6%B8%AF%E6%98%9F%E6%89%93call%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92kf6u2yy007p",
+      "word": "凯尔登约翰逊来中国掏出真本事了",
+      "hotValue": 7766334,
+      "rank": 26,
+      "link": "https://www.douyin.com/search/%E5%87%AF%E5%B0%94%E7%99%BB%E7%BA%A6%E7%BF%B0%E9%80%8A%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%8E%8F%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B%E4%BA%86",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92eb9a0dsafp7",
+      "word": "小火人马尾发型装扮大赛",
+      "hotValue": 7762549,
+      "rank": 27,
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E7%81%AB%E4%BA%BA%E9%A9%AC%E5%B0%BE%E5%8F%91%E5%9E%8B%E8%A3%85%E6%89%AE%E5%A4%A7%E8%B5%9B",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92pplc0lmo8u",
+      "word": "檀健次跳舞路过的都来看看",
+      "hotValue": 7762137,
+      "rank": 28,
+      "link": "https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B7%B3%E8%88%9E%E8%B7%AF%E8%BF%87%E7%9A%84%E9%83%BD%E6%9D%A5%E7%9C%8B%E7%9C%8B",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92bqisb8ze8rn",
+      "word": "大禹新皮肤翡翠华章",
+      "hotValue": 7756561,
+      "rank": 29,
+      "link": "https://www.douyin.com/search/%E5%A4%A7%E7%A6%B9%E6%96%B0%E7%9A%AE%E8%82%A4%E7%BF%A1%E7%BF%A0%E5%8D%8E%E7%AB%A0",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92ii7gozgusk",
+      "word": "周星驰手写2000张亲签回馈影迷",
+      "hotValue": 7755467,
+      "rank": 30,
+      "link": "https://www.douyin.com/search/%E5%91%A8%E6%98%9F%E9%A9%B0%E6%89%8B%E5%86%992000%E5%BC%A0%E4%BA%B2%E7%AD%BE%E5%9B%9E%E9%A6%88%E5%BD%B1%E8%BF%B7",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92uj7rk8z8vqq",
+      "word": "宗师一手镜打出哇声一片",
+      "hotValue": 7752190,
+      "rank": 31,
+      "link": "https://www.douyin.com/search/%E5%AE%97%E5%B8%88%E4%B8%80%E6%89%8B%E9%95%9C%E6%89%93%E5%87%BA%E5%93%87%E5%A3%B0%E4%B8%80%E7%89%87",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92oke2j2owxl",
+      "word": "JENNIE预告新歌MV",
+      "hotValue": 7751262,
+      "rank": 32,
+      "link": "https://www.douyin.com/search/JENNIE%E9%A2%84%E5%91%8A%E6%96%B0%E6%AD%8CMV",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v920krvgfrkzc9",
+      "word": "苗凯获大田赛十项全能冠军",
+      "hotValue": 7744153,
+      "rank": 33,
+      "link": "https://www.douyin.com/search/%E8%8B%97%E5%87%AF%E8%8E%B7%E5%A4%A7%E7%94%B0%E8%B5%9B%E5%8D%81%E9%A1%B9%E5%85%A8%E8%83%BD%E5%86%A0%E5%86%9B",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92jda8v943v8",
+      "word": "火影侠隐水门技能全爆料",
+      "hotValue": 7739442,
+      "rank": 34,
+      "link": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E4%BE%A0%E9%9A%90%E6%B0%B4%E9%97%A8%E6%8A%80%E8%83%BD%E5%85%A8%E7%88%86%E6%96%99",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92c2jqk6lcah5",
+      "word": "任何一张照片配嗜好都刚刚好",
+      "hotValue": 7738411,
+      "rank": 35,
+      "link": "https://www.douyin.com/search/%E4%BB%BB%E4%BD%95%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%E9%85%8D%E5%97%9C%E5%A5%BD%E9%83%BD%E5%88%9A%E5%88%9A%E5%A5%BD",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v920iefo6zxt30q",
+      "word": "游戏树恨你太抽象了",
+      "hotValue": 7737748,
+      "rank": 36,
+      "link": "https://www.douyin.com/search/%E6%B8%B8%E6%88%8F%E6%A0%91%E6%81%A8%E4%BD%A0%E5%A4%AA%E6%8A%BD%E8%B1%A1%E4%BA%86",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v929y9j3k0lki",
+      "word": "当我用身体波浪来摇杯好茶",
+      "hotValue": 7735855,
+      "rank": 37,
+      "link": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E7%94%A8%E8%BA%AB%E4%BD%93%E6%B3%A2%E6%B5%AA%E6%9D%A5%E6%91%87%E6%9D%AF%E5%A5%BD%E8%8C%B6",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92r73qhj1gmhp",
+      "word": "我爱爱爱爱你爱不够",
+      "hotValue": 7734337,
+      "rank": 38,
+      "link": "https://www.douyin.com/search/%E6%88%91%E7%88%B1%E7%88%B1%E7%88%B1%E7%88%B1%E4%BD%A0%E7%88%B1%E4%B8%8D%E5%A4%9F",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92yzf7u0686v",
+      "word": "干什么都一个人会不会太厉害了",
+      "hotValue": 7727327,
+      "rank": 39,
+      "link": "https://www.douyin.com/search/%E5%B9%B2%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A4%AA%E5%8E%89%E5%AE%B3%E4%BA%86",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92ga8nzdsj4fc",
+      "word": "小生在此苦寻校友",
+      "hotValue": 7726770,
+      "rank": 40,
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E7%94%9F%E5%9C%A8%E6%AD%A4%E8%8B%A6%E5%AF%BB%E6%A0%A1%E5%8F%8B",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92pcygqtsbls",
+      "word": "JakeHowie批改作业中",
+      "hotValue": 7725095,
+      "rank": 41,
+      "link": "https://www.douyin.com/search/JakeHowie%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A%E4%B8%AD",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92ejkzgmgeqcj",
+      "word": "就馋这一口内蒙古炭烤肉配凉面",
+      "hotValue": 7724879,
+      "rank": 42,
+      "link": "https://www.douyin.com/search/%E5%B0%B1%E9%A6%8B%E8%BF%99%E4%B8%80%E5%8F%A3%E5%86%85%E8%92%99%E5%8F%A4%E7%82%AD%E7%83%A4%E8%82%89%E9%85%8D%E5%87%89%E9%9D%A2",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92sqcxz6jkdek",
+      "word": "微胖女孩的夏日显瘦穿搭",
+      "hotValue": 7724760,
+      "rank": 43,
+      "link": "https://www.douyin.com/search/%E5%BE%AE%E8%83%96%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%A4%8F%E6%97%A5%E6%98%BE%E7%98%A6%E7%A9%BF%E6%90%AD",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92pva7b0fyqy",
+      "word": "成吉思鸡小哥将来到中国",
+      "hotValue": 7723897,
+      "rank": 44,
+      "link": "https://www.douyin.com/search/%E6%88%90%E5%90%89%E6%80%9D%E9%B8%A1%E5%B0%8F%E5%93%A5%E5%B0%86%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92dp6q4jgtje5",
+      "word": "我的世界矿石战争意难平",
+      "hotValue": 7721587,
+      "rank": 45,
+      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%9F%BF%E7%9F%B3%E6%88%98%E4%BA%89%E6%84%8F%E9%9A%BE%E5%B9%B3",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v9296qlywdp6s4",
+      "word": "白色海莉美甲的高级感超标了",
+      "hotValue": 7717666,
+      "rank": 46,
+      "link": "https://www.douyin.com/search/%E7%99%BD%E8%89%B2%E6%B5%B7%E8%8E%89%E7%BE%8E%E7%94%B2%E7%9A%84%E9%AB%98%E7%BA%A7%E6%84%9F%E8%B6%85%E6%A0%87%E4%BA%86",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92bvbg43e5e4a",
+      "word": "三角洲深蓝生日会",
+      "hotValue": 7717106,
+      "rank": 47,
+      "link": "https://www.douyin.com/search/%E4%B8%89%E8%A7%92%E6%B4%B2%E6%B7%B1%E8%93%9D%E7%94%9F%E6%97%A5%E4%BC%9A",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v92ufn1adoahq8",
+      "word": "一起来摇太阳",
+      "hotValue": 7705208,
+      "rank": 48,
+      "link": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E6%9D%A5%E6%91%87%E5%A4%AA%E9%98%B3",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
+    },
+    {
+      "id": "mrwa5v926qut482anki",
+      "word": "沿虚线撕开我的旅行日记",
+      "hotValue": 7690720,
+      "rank": 49,
+      "link": "https://www.douyin.com/search/%E6%B2%BF%E8%99%9A%E7%BA%BF%E6%92%95%E5%BC%80%E6%88%91%E7%9A%84%E6%97%85%E8%A1%8C%E6%97%A5%E8%AE%B0",
+      "fetchedAt": "2026-07-22T16:12:00.758Z"
     }
   ],
   "videos": [
     {
       "id": "v1",
-      "title": "这视频太牛了！一定要看完全程",
+      "title": "巴黎奥运会精彩瞬间合集",
       "author": {
         "id": "c1",
-        "nickname": "科技小达人",
+        "nickname": "体育观察员",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c1",
-        "followers": 1234567,
+        "followers": 2345678,
         "verified": true,
-        "fetchedAt": "2026-07-22T15:57:48.215Z"
+        "fetchedAt": "2026-07-22T16:12:00.759Z"
       },
-      "likes": 123456,
-      "comments": 8901,
-      "shares": 2345,
-      "coverUrl": "https://picsum.photos/seed/v1/400/300",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "likes": 234567,
+      "comments": 12345,
+      "shares": 5678,
+      "coverUrl": "https://picsum.photos/seed/olympic/400/300",
+      "fetchedAt": "2026-07-22T16:12:00.759Z"
     },
     {
       "id": "v2",
-      "title": "教你三招提升效率，工作事半功倍",
+      "title": "夏日清凉穿搭分享｜这一套绝了！",
       "author": {
         "id": "c2",
-        "nickname": "效率达人",
+        "nickname": "时尚达人小美",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c2",
-        "followers": 987654,
-        "verified": false,
-        "fetchedAt": "2026-07-22T15:57:48.215Z"
+        "followers": 1234567,
+        "verified": true,
+        "fetchedAt": "2026-07-22T16:12:00.759Z"
       },
       "likes": 98765,
       "comments": 4321,
-      "shares": 1234,
-      "coverUrl": "https://picsum.photos/seed/v2/400/300",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "shares": 2345,
+      "coverUrl": "https://picsum.photos/seed/fashion/400/300",
+      "fetchedAt": "2026-07-22T16:12:00.759Z"
     },
     {
       "id": "v3",
-      "title": "家常菜做法大全，学会了你就是大厨",
+      "title": "用AI一键生成爆款视频文案 | 教程",
       "author": {
         "id": "c3",
-        "nickname": "美食博主小王",
+        "nickname": "AI创客老王",
         "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c3",
         "followers": 876543,
-        "verified": true,
-        "fetchedAt": "2026-07-22T15:57:48.215Z"
-      },
-      "likes": 87654,
-      "comments": 3210,
-      "shares": 987,
-      "coverUrl": "https://picsum.photos/seed/v3/400/300",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
-    },
-    {
-      "id": "v4",
-      "title": "健身30天对比图，效果太明显了",
-      "author": {
-        "id": "c4",
-        "nickname": "健身教练老李",
-        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c4",
-        "followers": 765432,
-        "verified": true,
-        "fetchedAt": "2026-07-22T15:57:48.215Z"
+        "verified": false,
+        "fetchedAt": "2026-07-22T16:12:00.759Z"
       },
       "likes": 76543,
-      "comments": 2109,
-      "shares": 876,
-      "coverUrl": "https://picsum.photos/seed/v4/400/300",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
-    },
-    {
-      "id": "v5",
-      "title": "萌宠日常，看着心情都好起来了",
-      "author": {
-        "id": "c5",
-        "nickname": "铲屎官日记",
-        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c5",
-        "followers": 654321,
-        "verified": false,
-        "fetchedAt": "2026-07-22T15:57:48.215Z"
-      },
-      "likes": 65432,
-      "comments": 1987,
-      "shares": 765,
-      "coverUrl": "https://picsum.photos/seed/v5/400/300",
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "comments": 3210,
+      "shares": 1234,
+      "coverUrl": "https://picsum.photos/seed/ai/400/300",
+      "fetchedAt": "2026-07-22T16:12:00.759Z"
     }
   ],
   "creators": [
     {
       "id": "c1",
-      "nickname": "科技小达人",
+      "nickname": "体育观察员",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c1",
-      "followers": 1234567,
+      "followers": 2345678,
       "verified": true,
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "fetchedAt": "2026-07-22T16:12:00.759Z"
     },
     {
       "id": "c2",
-      "nickname": "效率达人",
+      "nickname": "时尚达人小美",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c2",
-      "followers": 987654,
-      "verified": false,
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "followers": 1234567,
+      "verified": true,
+      "fetchedAt": "2026-07-22T16:12:00.759Z"
     },
     {
       "id": "c3",
-      "nickname": "美食博主小王",
+      "nickname": "AI创客老王",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c3",
       "followers": 876543,
-      "verified": true,
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "verified": false,
+      "fetchedAt": "2026-07-22T16:12:00.759Z"
     },
     {
       "id": "c4",
-      "nickname": "健身教练老李",
+      "nickname": "美食探险家",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c4",
       "followers": 765432,
       "verified": true,
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "fetchedAt": "2026-07-22T16:12:00.759Z"
     },
     {
       "id": "c5",
-      "nickname": "铲屎官日记",
+      "nickname": "健身教练阿杰",
       "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c5",
       "followers": 654321,
       "verified": false,
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
-    },
-    {
-      "id": "c6",
-      "nickname": "旅行家小美",
-      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c6",
-      "followers": 543210,
-      "verified": true,
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
-    },
-    {
-      "id": "c7",
-      "nickname": "手工达人阿杰",
-      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c7",
-      "followers": 432109,
-      "verified": false,
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
-    },
-    {
-      "id": "c8",
-      "nickname": "财经分析师",
-      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=c8",
-      "followers": 321098,
-      "verified": true,
-      "fetchedAt": "2026-07-22T15:57:48.215Z"
+      "fetchedAt": "2026-07-22T16:12:00.759Z"
     }
   ],
-  "lastUpdated": "2026-07-22T15:57:48.355Z"
+  "lastUpdated": "2026-07-22T16:12:00.823Z"
 }
